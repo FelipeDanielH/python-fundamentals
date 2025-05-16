@@ -1,10 +1,6 @@
 
 # 📘 Nivel 1: Fundamentos de Python
 
-¡Bienvenido, Felipe! Este es un resumen estructurado y práctico de todo lo que vimos en el Nivel 1, con explicaciones, ejemplos clave y desafíos.
-
----
-
 ## ✅ 1. Instalación y Entorno
 
 - Instala Python desde https://python.org
