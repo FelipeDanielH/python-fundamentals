@@ -143,24 +143,3 @@ math.sqrt(16)
 import random
 random.randint(1, 6)
 ```
-
----
-
-## 🧪 Mini Desafíos
-
-- Calculadora con funciones (`calculadora.py`)
-- Juego del dado con `random`
-- Recorrer lista de productos (list + dict)
-
----
-
-## 🧭 Próximo paso
-
-➡️ **Nivel 2: Introducción a Django**
-- Instalación de Django
-- Estructura de proyecto y aplicación
-- Rutas, vistas y plantillas básicas
-
----
-
-¡Excelente trabajo completando este nivel! 🚀
